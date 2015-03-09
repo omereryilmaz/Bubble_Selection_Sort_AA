@@ -1,0 +1,4 @@
+C:\Users\BM\AppData\Local\Temporary Projects\bubble_selection\bin\Debug\bubble_selection.exe
+C:\Users\BM\AppData\Local\Temporary Projects\bubble_selection\bin\Debug\bubble_selection.pdb
+C:\Users\BM\AppData\Local\Temporary Projects\bubble_selection\obj\x86\Debug\bubble_selection.exe
+C:\Users\BM\AppData\Local\Temporary Projects\bubble_selection\obj\x86\Debug\bubble_selection.pdb
